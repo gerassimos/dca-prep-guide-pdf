@@ -1,0 +1,8 @@
+Domain 3
+04 - Setup swarm, configure managers, add nodes, and setup backup schedule
+
+Official Docker Documentation
+
+Create a swarm (Ref: Domain_1 01-01_Create_a_swarm.pdf)
+Add nodes to a swarm (Ref: Domain_1 01-01_Create_a_swarm.pdf)
+Back up a swarm (Ref: Domain_1 Administer_and_maintain_a_swarm_of_Docker_Engines.pdf # Back up the swarm)

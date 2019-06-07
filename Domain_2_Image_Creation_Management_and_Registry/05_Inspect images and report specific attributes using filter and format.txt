@@ -1,0 +1,27 @@
+Domain 2 Image Creation Management and Registry
+05 - Inspect images and report specific attributes using filter and format
+
+Official Docker Documentation
+
+a) docker image inspect
+b) Filter inspect results
+c) Format inspect results
+
+a) docker image inspect 
+docker image inspect 
+Estimated reading time: 1 minute 
+
+Description
+Display detailed information on one or more images
+Usage
+docker image inspect [OPTIONS] IMAGE [IMAGE...]
+
+Options
+Name, shorthand
+Default
+Description
+--format , -f   Format the output using the given Go template
+
+
+b) Filter inspect results =>  docker images # Filtering (docker_images.pdf)
+c) Format inspect results =>  docker images # Format the output (docker_images.pdf)

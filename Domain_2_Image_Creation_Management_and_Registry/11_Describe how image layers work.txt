@@ -1,0 +1,5 @@
+Domain 2 Image Creation Management and Registry
+11 - Describe how image layers work
+
+Ref:
+About_storage_drivers.pdf

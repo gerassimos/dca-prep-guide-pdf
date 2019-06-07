@@ -1,0 +1,6 @@
+Domain 6 - Storage and Volumes
+03 - # Compare object storage to block storage and explain which one is preferable when available
+
+### Official Docker Documentation
+Section 'Other considerations' in chapter 'Select a storage driver'
+Docker_storage_drivers.pdf # Other considerations

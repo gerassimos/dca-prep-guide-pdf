@@ -1,0 +1,5 @@
+Domain 2 Image Creation Management and Registry
+16 - Tag an image
+
+Duplicated Ref:
+06 - Demonstrate tagging an image

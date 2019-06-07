@@ -1,0 +1,9 @@
+Domain 3
+05 - Create and manager user and teams
+
+Official Docker Documentation
+
+Users that are created in UCP are shared with DTR and vice versa.
+
+Create and manage users [Ref: Create_and_manage_users.pdf]
+Create and manage teams [Ref: Create_and_manage_teams.pdf]

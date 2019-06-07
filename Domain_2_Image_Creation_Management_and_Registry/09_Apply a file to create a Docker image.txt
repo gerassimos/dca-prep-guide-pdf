@@ -1,0 +1,6 @@
+Domain 2 Image Creation Management and Registry
+09 - Apply a file to create a Docker image
+
+
+Ref:
+docker_image_build.pdf

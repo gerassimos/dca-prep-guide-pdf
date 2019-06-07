@@ -1,0 +1,7 @@
+Domain 5 Security
+05 - # Integrate UCP with LDAP AD
+
+## Official Docker Documentation
+Integrate with an LDAP Directory
+Integrate_with_an_LDAP_Directory.pdf
+

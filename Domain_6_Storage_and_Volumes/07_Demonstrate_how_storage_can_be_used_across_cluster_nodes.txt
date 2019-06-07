@@ -1,0 +1,6 @@
+Domain 6 - Storage and Volumes
+07 - # Demonstrate how storage can be used across cluster nodes
+
+### Official Docker Documentation
+This is possible with [Volume Plugins] which can provide persistent storage across a cluster
+Use_Docker_Engine_plugins.pdf #volume-plugins

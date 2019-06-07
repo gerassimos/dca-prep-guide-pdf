@@ -1,0 +1,16 @@
+Domain 3
+02 - Complete setup of repo, select a storage driver and complete installation of Docker engine on multiple platforms
+
+Official Docker Documentation
+
+Choosing and setting up the source for installing Docker EE - usually a repo - is described in the documentation for getting Docker EE. There you also find the exact commands that you need to follow to install the Docker EE engine.
+
+Oracle Linux => (Ref Get_Docker_EE_for_Oracle_Linux.pdf)
+Red Hat Enterprise Linux => (Ref Get_Docker_EE_for_Red_Hat_Enterprise_Linux.pdf)
+SUSE SLES => (Ref Get_Docker_EE_for_SLES.pdf)
+CentOS => (Ref Get_Docker_EE_for_CentOS.pdf)
+Ubuntu => (Ref Get_Docker_EE_for_Ubuntu.pdf)
+Windows Server 2016 => (Ref Install_Docker_Engine-Enterprise_on_Windows_Servers.pdf)
+
+The information about the supported storage drivers for production workloads can be found in the Product Compatibility Matrix. How to configure which storage driver is used is also described in the installation guide of each operating system.
+(Ref: Compatibility_Matrix.pdf)

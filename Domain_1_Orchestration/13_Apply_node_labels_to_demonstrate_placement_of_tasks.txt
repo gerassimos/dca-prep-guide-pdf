@@ -1,0 +1,5 @@
+Ref:
+docker node update (docker_node_update.pdf)
+Deploy services to a swarm # Placement constraints
+Docker object labels (Docker_object_labels.pdf)
+

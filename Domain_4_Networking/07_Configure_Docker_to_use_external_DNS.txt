@@ -1,0 +1,15 @@
+Domain 4 Networking
+07 - Configure Docker to use external DNS
+
+Official Docker Documentation
+
+Configure DNS
+
+
+Daemon DNS options
+To set the DNS server for all Docker containers, use:
+$ sudo dockerd --dns 8.8.8.8
+
+To set the DNS search domain for all Docker containers, use:
+$ sudo dockerd --dns-search example.com
+

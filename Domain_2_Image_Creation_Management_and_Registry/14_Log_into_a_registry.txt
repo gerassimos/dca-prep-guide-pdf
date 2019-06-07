@@ -1,0 +1,4 @@
+Domain 2 Image Creation Management and Registry
+14 - Log into a registry
+
+Ref: docker_login.pdf

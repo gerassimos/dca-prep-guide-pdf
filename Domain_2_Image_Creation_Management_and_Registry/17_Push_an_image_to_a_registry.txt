@@ -1,0 +1,7 @@
+Domain 2 Image Creation Management and Registry
+17 - Push an image to a registry
+
+Duplicated Ref:
+07 - Utilize a registry to store an image
+
+

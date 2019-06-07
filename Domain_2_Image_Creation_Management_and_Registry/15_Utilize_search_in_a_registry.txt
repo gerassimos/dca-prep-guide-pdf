@@ -1,0 +1,43 @@
+Domain 2 Image Creation Management and Registry
+15 - Utilize search in a registry
+
+ a) docker search (Ref: docker_search.pdf)
+ b) Listing Repositories in a private registry
+
+
+b) Listing Repositories in a private registry
+
+Note
+This section is part of: 
+"Docker Registry HTTP API V2" 
+Estimated reading time: 126 minutes
+
+Listing Repositories:
+Images are stored in collections, known as a repository, which is keyed by a name, as seen throughout the API specification. A registry instance may contain several repositories. The list of available repositories is made available through the catalog.
+The catalog for a given registry can be retrieved with the following request:
+GET /v2/_catalog
+The response will be in the following format:
+200 OK
+Content-Type: application/json
+
+{
+  "repositories": [
+    <name>,
+    ...
+  ]
+}
+
+Example
+https://gdn-artifactory.rd.advaoptical.com:9443/v2/_catalog
+
+{
+  "repositories" : [ "fsp_nm_centos7-vnc", "gnss-collector", "gnss-data-access", "gnss-machine-learning" ]
+}
+
+
+More info
+https://docs.docker.com/registry/spec/api/
+
+HTTP API V2
+Estimated reading time: 126 minutes
+Docker Registry HTTP API V2

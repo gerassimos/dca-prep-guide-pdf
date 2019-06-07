@@ -1,0 +1,11 @@
+Domain 5 Security
+12 - # Describe process to use external certificates with UCP and DTR
+
+## Official Docker Documentation
+UCP Use your own TLS certificates => UCP_Use_your_own_TLS_certificates.pdf
+
+DTR Use your own TLS certificates => DTR_Use_your_own_TLS_certificates.pdf
+
+
+
+

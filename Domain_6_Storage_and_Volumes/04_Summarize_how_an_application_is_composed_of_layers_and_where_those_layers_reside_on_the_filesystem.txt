@@ -1,0 +1,25 @@
+Domain 6 - Storage and Volumes
+04 - # Summarize how an application is composed of layers and where those layers reside on the filesystem
+
+## Part 1: Summarize how an application is composed of layers
+
+### Official Docker Documentation
+About images, containers, and storage drivers
+Ref:
+Duplication of 
+Domain 2 Image Creation Management and Registry
+11 - Describe how image layers work
+About_storage_drivers.pdf
+
+
+## Part 2: where those layers reside on the filesystem
+
+### Official Docker Documentation
+> [...] Each layer is pulled down separately, and stored in Docker’s local storage area, which is usually ´/var/lib/docker/´.
+
+Duplication of 
+Domain 2 Image Creation Management and Registry
+11 - Describe how image layers work
+About_storage_drivers.pdf
+
+

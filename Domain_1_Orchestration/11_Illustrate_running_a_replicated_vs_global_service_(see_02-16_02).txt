@@ -1,0 +1,2 @@
+Ref:
+02-02_How_services_work.pdf # Replicated and global services

@@ -1,0 +1,2 @@
+Ref:
+Deploy_services_to_a_swarm.pdf  #  Give a service access to volumes or bind mounts

@@ -1,0 +1,8 @@
+Domain 5 Security
+02 - # Demonstrate that an image passes a security scan
+
+## Official Docker Documentation
+Scan images for vulnerabilities
+Scan_images_for_vulnerabilities.pdf
+
+

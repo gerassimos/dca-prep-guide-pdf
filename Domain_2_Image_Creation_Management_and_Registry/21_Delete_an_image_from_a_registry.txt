@@ -1,0 +1,32 @@
+Domain 2 Image Creation Management and Registry
+21 - Delete an image from a registry
+
+You can delete an image from the Docker Hub by deleting individual tags in your repository in the tags area.
+Official Docker Documentation
+
+1)Delete an Image from a Docker Trusted Registry/DTR
+2)Deleting an Image in a private registry
+
+1)Delete an Image from a Docker Trusted Registry/DTR
+Delete an image
+Estimated reading time: 1 minute 
+To delete an image, go to the DTR web UI, and navigate to the image repository you want to delete. In the Tags tab, select all the image tags you want to delete, and click the Delete button.
+<img>
+You can also delete all image versions, by deleting the repository. For that, in the image repository, navigate to the Settings tab, and click the Delete button.
+
+2)Deleting an Image in a private registry
+Deleting an Image
+An image may be deleted from the registry via its name and reference. A delete may be issued with the following request format:
+
+DELETE /v2/<name>/manifests/<reference>
+
+For deletes, reference must be a digest or the delete will fail. If the image exists and has been successfully deleted, the following response will be issued:
+
+202 Accepted
+Content-Length: None
+
+If the image had already been deleted or did not exist, a 404 Not Found response will be issued instead.
+
+    Note When deleting a manifest from a registry version 2.3 or later, the following header must be used when HEAD or GET-ing the manifest to obtain the correct digest to delete:
+
+Accept: application/vnd.docker.distribution.manifest.v2+json

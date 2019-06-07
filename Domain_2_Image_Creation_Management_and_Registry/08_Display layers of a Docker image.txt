@@ -1,0 +1,18 @@
+Domain 2 Image Creation Management and Registry
+08 - Display layers of a Docker image
+
+docker image history
+Estimated reading time: 1 minute 
+
+Description
+Show the history of an image
+
+Usage
+docker image history [OPTIONS] IMAGE
+
+Options
+Name, shorthand 	Default 	    Description
+--format 		                    Pretty-print images using a Go template
+--human , -H 	    true 	        Print sizes and dates in human readable format
+--no-trunc 		                  Don’t truncate output
+--quiet , -q 		                Only show numeric IDs

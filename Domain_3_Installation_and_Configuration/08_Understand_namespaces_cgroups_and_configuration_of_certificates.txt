@@ -1,0 +1,19 @@
+Domain 3
+08 - Understand namespaces, cgroups and configuration of certificates
+
+Official Docker Documentation
+
+1. Namespaces 
+2. Controlgroups
+3. Protect the Docker daemon socket
+
+1. Namespaces 
+Ref : Docker_overview.pdf # Namespaces
+
+2. Controlgroups
+Ref : Docker_overview.pdf # Control groups
+
+3. Protect the Docker daemon socket
+Ref. Protect_the_Docker_daemon_socket.pdf 
+ 
+

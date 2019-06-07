@@ -1,0 +1,12 @@
+Domain 5 Security
+06 - # Demonstrate creation of UCP client bundles
+
+## Official Docker Documentation
+Download client certificates
+CLI-based_access.pdf # Download client certificates
+
+## Docker Blog
+Get Familiar with Docker Enterprise Edition Client Bundles
+get-familiar-docker-enterprise-edition-client-bundles.pdf
+
+

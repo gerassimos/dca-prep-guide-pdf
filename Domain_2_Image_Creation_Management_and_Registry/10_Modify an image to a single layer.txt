@@ -1,0 +1,33 @@
+Domain 2 Image Creation Management and Registry
+10 - Modify an image to a single layer
+
+
+Official Docker Documentation
+  Without rebuilding
+    a) create a container from the image: docker create [Ref: docker_create.pdf]
+    b) export the container to a flattened tar: docker container export [Ref: docker_export.pdf]
+    c) load the image back: docker image import
+
+c) load the image back: docker image import [Ref ]
+docker image import
+Estimated reading time: 2 minutes
+Description
+Import the contents from a tarball to create a filesystem image
+
+Usage
+docker image import [OPTIONS] file|URL|- [REPOSITORY[:TAG]]
+Options
+Name, shorthand 	Default 	Description
+--change , -c 		Apply Dockerfile instruction to the created image
+--message , -m 		Set commit message for imported image
+--platform 		experimental (daemon)API 1.32+ Set platform if server is multi-platform capable
+
+
+With rebuilding
+
+See the --squash option of docker build [Ref: docker_build.pdf]
+
+Third party resources
+
+Flatten a Docker container or image
+[Ref: Flatten_a_Docker_container_or_image.pdf]

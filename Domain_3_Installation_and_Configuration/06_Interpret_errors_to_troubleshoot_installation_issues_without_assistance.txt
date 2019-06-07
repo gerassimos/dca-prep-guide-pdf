@@ -1,0 +1,16 @@
+Domain 3
+06 - Interpret errors to troubleshoot installation issues without assistance
+
+Official Docker Documentation
+
+1 Start the daemon manually 
+2 Troubleshoot the daemon
+
+1 Start the daemon manually 
+Ref: Configure_and_troubleshoot_the_Docker_daemon.pdf
+
+2 Troubleshoot the daemon
+Ref: Configure_and_troubleshoot_the_Docker_daemon.pdf
+#Troubleshoot the daemon
+
+

@@ -1,0 +1,6 @@
+Ref:
+Administer_and_maintain_a_swarm_of_Docker_Engines.pdf # Maintain the quorum of managers
+Administer_and_maintain_a_swarm_of_Docker_Engines.pdf # Add manager nodes for fault tolerance
+Administer_and_maintain_a_swarm_of_Docker_Engines.pdf # Recover from losing the quorum
+
+

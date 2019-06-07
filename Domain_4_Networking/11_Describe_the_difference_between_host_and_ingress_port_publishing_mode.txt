@@ -1,0 +1,19 @@
+Domain 4 Networking
+11 - Describe the difference between host and ingress port publishing mode
+
+Official Docker Documentation
+1. Publish Port on a single host in Docker Swarm
+2. Publish Port on the routing Mesh of Docker Swarm
+
+--------------------------------------
+
+Official Docker Documentation
+1. Publish Port on a single host in Docker Swarm
+Ref:
+(Domain 1)
+Deploy_services_to_a_swarm.pdf # PUBLISH A SERVICE’S PORTS DIRECTLY ON THE SWARM NODE
+
+2. Publish Port on the routing Mesh of Docker Swarm
+Ref:
+(Domain 1)
+Deploy_services_to_a_swarm.pdf # PUBLISH A SERVICE’S PORTS DIRECTLY ON THE SWARM NODE

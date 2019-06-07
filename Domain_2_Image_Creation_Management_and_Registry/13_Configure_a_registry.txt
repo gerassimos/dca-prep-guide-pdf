@@ -1,0 +1,2 @@
+Ref:
+Configuring_a_registry.pdf

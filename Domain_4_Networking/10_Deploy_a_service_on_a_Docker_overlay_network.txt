@@ -1,0 +1,19 @@
+Domain 4 Networking
+10 - Deploy a service on a Docker overlay network
+
+Official Docker Documentation
+1. Publish a Service to the Default Routing Mesh in Docker Swarm
+2. Connect a Service to an Overlay Network in Docker Swarm
+
+-------------------------------------------------------------
+
+Official Docker Documentation
+1. Publish a Service to the Default Routing Mesh in Docker Swarm
+Ref:
+(Domain 1)
+Deploy_services_to_a_swarm.pdf # PUBLISH A SERVICE’S PORTS USING THE ROUTING MESH
+
+
+2. Connect a Service to an Overlay Network in Docker Swarm
+Ref
+Deploy_services_to_a_swarm.pdf # Connect the service to an overlay network

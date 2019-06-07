@@ -1,0 +1,17 @@
+Domain 3
+10 - Consistently repeat steps to deploy Docker engine UCP and DTR on AWS and on premises in an HA config
+
+Official Docker Documentation
+
+1. Install Docker Trusted Registry
+2. Install UCP for production
+3. Docker for AWS setup & prerequisites
+
+1. Install Docker Trusted Registry
+Install_Docker_Trusted_Registry.pdf
+
+2. Install UCP for production
+Install_UCP_for_production.pdf
+
+3. Docker for AWS setup & prerequisites
+Docker_for_AWS_setup_&_prerequisites.pdf

@@ -1,0 +1,6 @@
+# Demonstrate how to configure devicemapper
+
+## Official Docker Documentation
+Configure Docker with the devicemapper storage driver
+Ref:
+Use_the_Device_Mapper_storage_driver.pdf #configure-docker-with-the-devicemapper-storage-driver

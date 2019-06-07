@@ -1,0 +1,19 @@
+Domain 4 Networking
+08 - Use Docker to load balance HTTP HTTPs traffic to an application (Configure L7 load balancing with Docker EE)
+
+Official Docker Documentation
+
+1. How to configure an external load balancer
+2. Use a load balancer Docker EE
+3. Docker Reference Architecture: Universal Control Plane 3.0 Service Discovery and Load Balancing
+
+1. How to configure an external load balancer
+Ref:
+Use_swarm_mode_routing_mesh.pdf #configure-an-external-load-balancer 
+
+2. Use a load balancer Docker EE
+Use_a_load_balancer.pdf
+
+3. Docker Reference Architecture: Universal Control Plane 3.0 Service Discovery and Load Balancing
+Ref:
+ucp-service-discovery.pdf #Internal Load Balancing 

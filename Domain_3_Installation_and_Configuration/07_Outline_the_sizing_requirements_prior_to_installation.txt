@@ -1,0 +1,21 @@
+Domain 3
+07 - Outline the sizing requirements prior to installation
+
+Official Docker Documentation
+
+1. Hardware and software requirements
+2. DTR requirements
+3. UCP requirements
+4. Docker EE best practices and design considerations
+ 
+1. Hardware and software requirements
+Ref: UCP_System_requirements.pdf # Hardware and software requirements
+
+2. DTR requirements
+Ref: DTR_requirements.pdf
+
+3. UCP requirements
+Ref: UCP_System_requirements.pdf
+
+4. Docker EE best practices and design considerations
+Ref: docker-ee-best-practices-17-03.pdf

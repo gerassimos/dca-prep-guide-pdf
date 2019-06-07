@@ -1,0 +1,15 @@
+Domain 2 Image Creation Management and Registry
+07 - Utilize a registry to store an image
+
+docker image push
+Estimated reading time: 1 minute 
+
+Description
+Push an image or a repository to a registry
+
+Usage
+docker image push [OPTIONS] NAME[:TAG]
+
+Options
+Name                      Default      Description
+--disable-content-trust 	true 	       Skip image signing
